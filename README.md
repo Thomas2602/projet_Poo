@@ -1,5 +1,7 @@
 ELOUNDOU NGOUMA Thomas Christian
 
+Bonjour Monsieur!
+
  
 Dans ce projet, j'ai créé:
 - deux classes: Client.java et Objet.java. Ces deux classes sont dans le package models et caractérisent les les objets et clients.
